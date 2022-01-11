@@ -1,0 +1,7 @@
+# Quarkus Configuration file
+# key = value
+app:
+  param1: text1
+  param2: text2
+  health-liveness: true
+  health-readiness: true
